@@ -1,0 +1,3 @@
+#IGNORE CODE DATA i.e *.csv files#
+##################################
+*.csv
